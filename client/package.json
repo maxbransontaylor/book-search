@@ -16,9 +16,13 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1"
   },
+  "engines" : { 
+    
+    "node" : "16.x"
+  },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build", 
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
